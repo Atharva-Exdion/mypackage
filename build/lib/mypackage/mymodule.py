@@ -1,4 +1,4 @@
 # mypackage/mymodule.py
 
 def hello():
-    return "Hello, world!"
+    return "This is a dummy package created by Atharva"
